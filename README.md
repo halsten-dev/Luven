@@ -1,15 +1,11 @@
-![Logo](https://trello-attachments.s3.amazonaws.com/5c62603f5b806120c3c217de/5c62fa9f44ac736dfc066527/72e30acbb61a10f09d371727f2c2a515/Luven.PNG)
-
 # Luven
-![Image of Luven in Battle Mage Dungeon Rush](https://trello-attachments.s3.amazonaws.com/5c62603f5b806120c3c217de/5c62fa9f44ac736dfc066527/75e221b27cc2abad5fad7b36a3a78725/BMDR_ScreenShot_for_Luven.png)
-
 Minimalist lighting system for [Löve2D](https://love2d.org/)
 
 # Luven's Public Link
 Löve2D Forums : https://love2d.org/forums/viewtopic.php?f=5&t=86402
 
 # Luven's Wiki
-https://github.com/chicogamedev/Luven/wiki
+https://github.com/halsten-dev/Luven/wiki
 
 # Luven's License
 MIT License
